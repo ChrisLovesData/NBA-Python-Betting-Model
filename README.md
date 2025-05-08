@@ -42,11 +42,6 @@ This project builds a Python-based model to predict NBA over/under outcomes usin
 
 ---
 
-##  Preview
-![Header](downloads/NBA-Banner.png) 
-
----
-
 ##  Author
 **Chris Randall**  
 Toronto-based data analyst & sports modeling enthusiast  
