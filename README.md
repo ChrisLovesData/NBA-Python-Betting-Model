@@ -32,7 +32,7 @@ This project builds a Python-based model to predict NBA over/under outcomes usin
 ---
 
 ##  Files
-- `notebook.ipynb`: Full model code and predictions
+- [`nba_data.ipynb`](nba_data.ipynb): Full model code and predictions
 - `data/`: Cleaned historical game data
 - `results/`: CSV or Excel file with daily predictions vs. Vegas lines
 
