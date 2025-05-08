@@ -13,7 +13,11 @@ This project builds a Python-based model to predict NBA over/under outcomes usin
 ---
 
 ##  Features Engineered
-- Average total points scored/allowed (last 20 & 3 games)
+- Average total points scored last 20 (long-term)
+- Average total points allowed last 20 (long-term)
+- Average total points scored last 3 (short-term)
+- Average total points allowed last 3 (short-term)
+- Head-to-Head season averages
 - Assist × Assist interaction
 - Combined rebound average
 - Days of rest (home and away)
