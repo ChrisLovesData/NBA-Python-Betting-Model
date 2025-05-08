@@ -27,7 +27,7 @@ This project builds a Python-based model to predict NBA over/under outcomes usin
 
 ---
 
-## 📁 Files
+##  Files
 - `notebook.ipynb`: Full model code and predictions
 - `data/`: Cleaned historical game data
 - `results/`: CSV or Excel file with daily predictions vs. Vegas lines
@@ -42,12 +42,12 @@ This project builds a Python-based model to predict NBA over/under outcomes usin
 
 ---
 
-## 📸 Preview
-![Header](images/NBA-Banner.png) 
+##  Preview
+![Header](downloads/NBA-Banner.png) 
 
 ---
 
-## 🧠 Author
+##  Author
 **Chris Randall**  
 Toronto-based data analyst & sports modeling enthusiast  
 [Portfolio](https://www.datascienceportfol.io/ChrisRandall)
