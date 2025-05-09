@@ -33,7 +33,7 @@ This project builds a Python-based model to predict NBA over/under outcomes usin
 
 ##  Files
 - [`nba_data.ipynb`](nba_data.ipynb): Full model code and predictions
-- `results/`: CSV or Excel file with daily predictions vs. Vegas lines
+- [`Prediction Results.xlsx`](./Prediction%20Results.xlsx): Daily model predictions vs. Vegas lines
 
 ---
 
